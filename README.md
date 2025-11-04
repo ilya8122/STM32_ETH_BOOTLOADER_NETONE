@@ -1,2 +1,4 @@
-# STM32_ETH_BOOTLOADER_NETONE
-2 проекта неотемлиом связанных, 1 ый бутлоадер для прошивки через ethernet, 2 система климата серверного шкафа
+openblt build for waveshare stm32f407vet6(vetx)
+2 days on it :)
+in project enabled only usb flashing method, but if you want to enable rs232(uart), can - edit flag in blt_conf.h and in mx project file
+enjoy!
